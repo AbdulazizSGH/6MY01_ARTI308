@@ -1,0 +1,3 @@
+Type: Classification
+Target variable: ai_job_displacement_risk
+Expected learning: Learn patterns between job characteristics and AI impact indicators in order to predict the level of AI-related job displacement risk

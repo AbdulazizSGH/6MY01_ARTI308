@@ -1,3 +1,5 @@
-Type: Classification
+Problem statement: This model aims to predict ai job displacement risk based on several job related factors like industry, seniority and automation risk. 
+
+Type: Supervised Classification
 Target variable: ai_job_displacement_risk
 Expected learning: Learn patterns between job characteristics and AI impact indicators in order to predict the level of AI-related job displacement risk

@@ -1,2 +1,2 @@
 # 6MY01_ARTI308
-"a bit about yourself".
+This lab we learned about matplot and seaborn and learned how to use them

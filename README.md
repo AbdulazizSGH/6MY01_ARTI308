@@ -1,2 +1,12 @@
 # 6MY01_ARTI308
-"a bit about yourself".
+Descriptive Analysis:
+
+The dataset contains 5,000 job records with 22 features describing industry, seniority, company size, salary, automation risk, and AI intensity.
+It includes both categorical and numerical variables, along with labeled outcomes such as AI job displacement risk (Low/Medium/High) and reskilling requirement, making it suitable for supervised classification analysis.
+Overall, the data appears clean with minimal missing values and a balanced structure for machine learning tasks.
+
+Problem statement: This model aims to predict ai job displacement risk based on several job related factors like industry, seniority and automation risk. 
+
+Type: Supervised Classification
+Target variable: ai_job_displacement_risk
+Expected learning: Learn patterns between job characteristics and AI impact indicators in order to predict the level of AI-related job displacement risk

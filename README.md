@@ -1,4 +1,5 @@
 # 6MY01_ARTI308
+<<<<<<< HEAD
 Descriptive Analysis:
 
 The dataset contains 5,000 job records with 22 features describing industry, seniority, company size, salary, automation risk, and AI intensity.
@@ -10,3 +11,6 @@ Problem statement: This model aims to predict ai job displacement risk based on 
 Type: Supervised Classification
 Target variable: ai_job_displacement_risk
 Expected learning: Learn patterns between job characteristics and AI impact indicators in order to predict the level of AI-related job displacement risk
+=======
+This lab we learned about matplot and seaborn and learned how to use them
+>>>>>>> 2c3e085ec257fa43ec6bf88c87f7eeee8b02ebab

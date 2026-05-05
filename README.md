@@ -1,2 +1,2 @@
 # 6MY01_ARTI308
-"a bit about yourself".
+In this lab I learned to how to do SVM and Grid searhing to improve accuracy.
